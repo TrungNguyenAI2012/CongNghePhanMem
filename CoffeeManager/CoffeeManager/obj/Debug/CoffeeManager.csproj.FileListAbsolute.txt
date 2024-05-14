@@ -1,0 +1,101 @@
+E:\9. Share\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe.config
+E:\9. Share\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe
+E:\9. Share\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.pdb
+E:\9. Share\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.AssemblyReference.cache
+E:\9. Share\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fLogin.resources
+E:\9. Share\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.resources
+E:\9. Share\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.GenerateResource.cache
+E:\9. Share\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CoreCompileInputs.cache
+E:\9. Share\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.exe
+E:\9. Share\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.pdb
+E:\9. Share\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fTableManager.resources
+E:\9. Share\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fStaffManager.resources
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe.config
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.pdb
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.AssemblyReference.cache
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fLogin.resources
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fStaffManager.resources
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fTableManager.resources
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.resources
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.GenerateResource.cache
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CoreCompileInputs.cache
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.exe
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.pdb
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fGuestManager.resources
+E:\Share\HK7_Công nghệ phần mềm\Đồ án\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fAdmin.resources
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.AssemblyReference.cache
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fAdmin.resources
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fGuestManager.resources
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fLogin.resources
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fStaffManager.resources
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fTableManager.resources
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.resources
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.GenerateResource.cache
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CoreCompileInputs.cache
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.exe
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.pdb
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe.config
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.pdb
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\EnvDTE.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\stdole.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fReport.resources
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\RdlCompile.cache
+C:\Users\ad\Desktop\CoffeeManager\CoffeeManager\obj\Debug\RdlCompile.compiled
